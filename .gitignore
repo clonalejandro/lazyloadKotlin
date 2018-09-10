@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# Out
+out
+./out
+
+# MacOs
+*.DS_Store
+.DS_Store
+.DS_Store?
+
 # Log file
 *.log
 
