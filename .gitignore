@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Ide
+*.iml
+
 # Out
 out
 ./out
